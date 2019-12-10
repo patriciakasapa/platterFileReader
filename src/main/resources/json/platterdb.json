@@ -1,0 +1,34 @@
+{
+"weather_data": [
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  },
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  },
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  },
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  },
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  },
+  {
+    "id": "",
+    "city": "london",
+    "temp": "23.4"
+  }
+]
+}
